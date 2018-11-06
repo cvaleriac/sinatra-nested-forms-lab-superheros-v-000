@@ -13,4 +13,4 @@ class Team
     @@all
   end
 end
-© 2018 GitHub, Inc.
+
